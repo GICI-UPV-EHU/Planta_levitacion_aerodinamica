@@ -1,6 +1,3 @@
-# Planta_levitacion_aerodinamica
-Este TFG ha sido desarrollado para iniciar el diseño de una planta de laboratorio para el DISA, la cual está constituida por un isstema de levitación aerodinámica.
-
 # 🌬️ Planta de Levitación Aerodinámica
 
 Repositorio asociado al **Trabajo Fin de Grado (TFG)** desarrollado por **Izei Ordorika** en la **Universidad del País Vasco / Euskal Herriko Unibertsitatea (EHU)**, en colaboración con el **Grupo de Investigación en Control Inteligente (GICI)**.
@@ -51,7 +48,6 @@ Recoge documentación técnica, referencias, recursos gráficos y otros material
 ## 🔗 Enlaces de interés
 
 - [Universidad del País Vasco / Euskal Herriko Unibertsitatea (EHU)](https://www.ehu.eus/)
-- [Organización GICI en GitHub](https://github.com/GICI-UPV-EHU)
 
 ---
 
